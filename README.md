@@ -25,6 +25,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 
 ### 🚀 Featured Projects
 - 🔹 **Task Manager App** – React + FastAPI  
