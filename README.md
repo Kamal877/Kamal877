@@ -9,6 +9,8 @@
 - 🎯 Goal: Become a professional GeniAI Engineer
 
 ---
+![Snake animation](https://raw.githubusercontent.com/Kamal877/github-profile-snake/output/github-contribution-grid-snake.svg)
+
 
 ### 🛠 Tech Stack
 **Languages:**  
