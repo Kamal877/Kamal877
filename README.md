@@ -1,12 +1,12 @@
 # Hi, I'm Kamal 👋  
-🚀 Aspiring Full-Stack Developer | Python • React • FastAPI  
+🚀 Aspiring GenAI Engineer | Python • React • FastAPI  
 
 ---
 
 ### 👨‍💻 About Me
 - 💡 Passionate about building real-world applications
 - 🌱 Currently learning React and Backend APIs
-- 🎯 Goal: Become a professional full-stack developer
+- 🎯 Goal: Become a professional GeniAI Engineer
 
 ---
 
@@ -40,9 +40,9 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://linkedin.com/in/kamalvasa 
 - 🌐 Portfolio: Coming Soon  
-- 📧 Email: your-email@example.com  
+- 📧 Email: vasakamal9022@gmail.com
 
 ---
 
