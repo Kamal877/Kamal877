@@ -26,22 +26,29 @@
 
 <br/>
 
+<div align="center">
+
+### ⚡ Snapshot
+
+| 🌧️ 15 yrs | 🔎 100K+ | 🗺️ 75 | 🧠 99.3% |
+|:---:|:---:|:---:|:---:|
+| ERA5 climate data processed | profiles ranked in <5 min on CPU | UP districts risk-mapped | peak model accuracy |
+
+</div>
+
 ---
 
 ## About Me
 
-```
-I'm an M.Sc. AI & ML student at IIIT Lucknow, currently working as a Data Science
-Intern at the Climate Resilience Observatory (UP Govt.), where I build ML-driven
-climate and rainfall prediction models using 14+ years of ERA5 satellite data.
+<img align="right" width="260" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
-Outside of research, I ship production-grade AI platforms end-to-end — from
-FAISS-powered candidate ranking systems processing 100,000+ profiles, to
-satellite-driven urban vulnerability indices covering 75 districts.
+I'm an **M.Sc. AI & ML student at IIIT Lucknow**, currently a Data Science Intern at the **Climate Resilience Observatory (UP Govt.)**, building ML-driven rainfall and risk models from 14–15 years of ERA5 satellite data.
 
-I care about systems that are fast, CPU-efficient, and genuinely useful —
-not just accurate on paper.
-```
+Beyond research, I ship **full-stack AI products end-to-end** — from FAISS-powered search engines ranking 100K+ candidate profiles in minutes, to satellite-driven climate risk dashboards used across 75 districts.
+
+I care about systems that are **fast, lean, and genuinely useful** — not just accurate on paper.
+
+<br clear="right"/>
 
 <table>
 <tr>
@@ -67,6 +74,10 @@ not just accurate on paper.
 ---
 
 ## Tech Stack
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4"/>
+</div>
 
 <div align="center">
 
@@ -112,6 +123,8 @@ not just accurate on paper.
 <summary><b>🔍 Intelligent Candidate Discovery Platform — IndiaRuns Data & AI Challenge</b></summary>
 <br/>
 
+<img src="https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-4c1d95?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-a78bfa?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-6d28d9?style=flat-square"/>
+
 AI-powered candidate-ranking platform that sifts through 100,000+ profiles in under 5 minutes on CPU alone, combining FAISS dense vector search with behavioral heuristics to filter out ghost profiles and title-chasers.
 
 | Category | Detail |
@@ -131,6 +144,8 @@ Backend deployed on Render, frontend on Netlify — built as a complete recruite
 <summary><b>🌍 Urban Vulnerability Intelligence Platform</b></summary>
 <br/>
 
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-6d28d9?style=flat-square"/> <img src="https://img.shields.io/badge/GeoPandas-4c1d95?style=flat-square"/> <img src="https://img.shields.io/badge/RandomForest-8b5cf6?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-a78bfa?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-6d28d9?style=flat-square&logo=plotly&logoColor=white"/>
+
 End-to-end climate risk platform covering 75 districts of Uttar Pradesh, built on real satellite data from NASA MODIS and ESA Sentinel via Google Earth Engine.
 
 | Category | Detail |
@@ -149,6 +164,8 @@ Deployed via a FastAPI backend paired with a Streamlit dashboard for real-time e
 <details>
 <summary><b>🧠 EFFResNet-ViT: Medical Image Classification</b></summary>
 <br/>
+
+<img src="https://img.shields.io/badge/PyTorch-6d28d9?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/timm-4c1d95?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-8b5cf6?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-a78bfa?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 Hybrid deep learning model fusing EfficientNet-B0, ResNet-50, and a Vision Transformer for medical image classification.
 
