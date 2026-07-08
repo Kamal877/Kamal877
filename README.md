@@ -95,6 +95,10 @@ Sept 2025 – Present · Lucknow, India
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KamalVasa&theme=react-dark&bg_color=0a0a0a&color=a78bfa&line=8b5cf6&point=ffffff&hide_border=true)](https://github.com/KamalVasa)
 
 ---
+<p align="center">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KamalVasa/KamalVasa/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 
 *"Turning satellite data and dense vectors into decisions that matter."*
 
