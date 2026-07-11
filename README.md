@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalvasa)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:vasakamal9022@gmail.com)
 [![GitHub](https://img.shields.io/badge/Code-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/KamalVasa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/KamalVasa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://kamalvasa.github.io/portfolio)
 
 [![Followers](https://img.shields.io/github/followers/KamalVasa?style=for-the-badge&color=8b5cf6)](https://github.com/KamalVasa?tab=followers)
 [![Stars](https://img.shields.io/github/stars/KamalVasa?style=for-the-badge&color=a78bfa)](https://github.com/KamalVasa?tab=repositories)
