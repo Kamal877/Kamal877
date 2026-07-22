@@ -14,8 +14,23 @@
 ## About Me
 <!-- #about-me -->
 
-| I'm **Kamal Vasa**, an M.Sc. AI & ML student at IIIT Lucknow, focused on building systems that turn raw data — satellite, geospatial, or unstructured text — into decisions people can act on.<br><br>My work spans **climate ML, geospatial risk modeling, and full-stack AI product engineering**, with a strong interest in making CPU-efficient, dependency-light systems that actually ship.<br><br>Currently, I'm working on:<br>🌧️ District-level rainfall prediction from ERA5 climate data<br>🗺️ Composite risk indices from satellite imagery (MODIS, Sentinel)<br>🔎 Dense vector search & retrieval at scale (FAISS)<br>🧠 Hybrid CNN + Transformer architectures for image classification<br><br>I enjoy taking ambitious data problems and turning them into lean, production-ready systems. | ![coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif) |
-|---|---|
+I'm **Kamal Vasa**, an M.Sc. student in Artificial Intelligence and Machine Learning at IIIT Lucknow (CGPA: 8.8), with a background in Computer Science (B.Sc., Sies College of Arts, Science and Commerce, Mumbai — CGPA: 8.4). I build systems that turn raw data — satellite imagery, geospatial records, or unstructured text — into decisions people can actually act on.
+
+Since September 2025, I've been working as a **Data Science Intern at the Climate Resilience Observatory (CRO), UP Government**, where I process 14–15 years of ERA5 (ECMWF) climate data across 12 parameters to build district-level rainfall prediction models, and contribute to the backend and geospatial data pipelines of a watershed management system.
+
+Beyond my internship, I've built and deployed several full-stack, AI-driven platforms — including a FAISS-powered candidate discovery engine that ranks 100,000+ profiles in under 5 minutes on CPU alone, an Urban Vulnerability Intelligence Platform combining NASA MODIS and ESA Sentinel satellite data with a custom Random Forest–based vulnerability index for 75 UP districts, and a multi-tenant real estate CRM with an AI marketing engine powered by Gemini. My work spans **climate ML, geospatial risk modeling, and full-stack AI product engineering**, with a strong focus on building CPU-efficient, dependency-light systems that ship.
+
+**Currently working on:**
+- 🌧️ District-level rainfall prediction from ERA5 climate data
+- 🗺️ Composite risk indices from satellite imagery (MODIS, Sentinel)
+- 🔎 Dense vector search & retrieval at scale (FAISS)
+- 🧠 Hybrid CNN + Transformer architectures for image classification
+
+I enjoy taking ambitious data problems and turning them into lean, production-ready systems.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="400"/>
+</p>
 
 ---
 
