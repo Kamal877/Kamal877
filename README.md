@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Voice+of+Climate+%2B+AI+Systems;M.Sc.+AI+%26+ML+%40+IIIT+Lucknow;FAISS+%2B+FastAPI+%2B+React+%2B+RandomForest;Turning+Satellite+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Kamal+Vasa+%F0%9F%91%8B;Data+Science+Intern+%40+CRO%2C+UP+Govt.;M.Sc.+AI+%26+ML+%40+IIIT+Lucknow;FAISS+%2B+FastAPI+%2B+React+%2B+RandomForest;Turning+Satellite+Data+into+Decisions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalvasa)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:vasakamal9022@gmail.com)
