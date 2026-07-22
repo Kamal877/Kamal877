@@ -14,13 +14,15 @@
 ## About Me
 <!-- #about-me -->
 
-I'm **Kamal Vasa**, an M.Sc. student in Artificial Intelligence and Machine Learning at IIIT Lucknow (CGPA: 8.8), with a background in Computer Science (B.Sc., Sies College of Arts, Science and Commerce, Mumbai — CGPA: 8.4). I build systems that turn raw data — satellite imagery, geospatial records, or unstructured text — into decisions people can actually act on.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Since September 2025, I've been working as a **Data Science Intern at the Climate Resilience Observatory (CRO), UP Government**, where I process 14–15 years of ERA5 (ECMWF) climate data across 12 parameters to build district-level rainfall prediction models, and contribute to the backend and geospatial data pipelines of a watershed management system.
+I'm **Kamal Vasa**, an M.Sc. AI & ML student at IIIT Lucknow (CGPA: 8.8), focused on building systems that turn raw data — satellite, geospatial, or unstructured text — into decisions people can act on.
 
-Beyond my internship, I've built and deployed several full-stack, AI-driven platforms — including a FAISS-powered candidate discovery engine that ranks 100,000+ profiles in under 5 minutes on CPU alone, an Urban Vulnerability Intelligence Platform combining NASA MODIS and ESA Sentinel satellite data with a custom Random Forest–based vulnerability index for 75 UP districts, and a multi-tenant real estate CRM with an AI marketing engine powered by Gemini. My work spans **climate ML, geospatial risk modeling, and full-stack AI product engineering**, with a strong focus on building CPU-efficient, dependency-light systems that ship.
+My work spans **climate ML, geospatial risk modeling, and full-stack AI product engineering**, with a strong interest in making CPU-efficient, dependency-light systems that actually ship.
 
-**Currently working on:**
+Currently, I'm exploring:
 - 🌧️ District-level rainfall prediction from ERA5 climate data
 - 🗺️ Composite risk indices from satellite imagery (MODIS, Sentinel)
 - 🔎 Dense vector search & retrieval at scale (FAISS)
@@ -28,13 +30,16 @@ Beyond my internship, I've built and deployed several full-stack, AI-driven plat
 
 I enjoy taking ambitious data problems and turning them into lean, production-ready systems.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="400"/>
-</p>
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## Arsenal
+## ARSENAL
 <!-- #arsenal -->
 
 | Domain | Stack |
@@ -48,7 +53,7 @@ I enjoy taking ambitious data problems and turning them into lean, production-re
 
 ---
 
-## Systems
+## SYSTEMS
 <!-- #systems -->
 
 **`01` — Intelligent Candidate Discovery Platform**
@@ -60,15 +65,18 @@ End-to-end climate risk platform for 75 UP districts, built on NASA MODIS + ESA 
 **`03` — EFFResNet-ViT: Medical Image Classification**
 Hybrid EfficientNet-B0 + ResNet-50 + ViT model for Brain Tumor and Retinal disease classification — 99.31% and 92.54% accuracy via dual-CNN feature fusion. `PyTorch` `timm` `OpenCV` `Scikit-learn` · [![GitHub](https://img.shields.io/badge/Code-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/KamalVasa)
 
-**`04` — Rainfall Prediction Model** — CRO, UP Govt.
+**`04` — AI-Powered Real Estate CRM & Storefront**
+Multi-tenant real estate platform with a customer storefront and admin CRM, featuring a Gemini-powered AI marketing engine that auto-generates Instagram, Facebook, and WhatsApp content. `Next.js` `FastAPI` `PostgreSQL` `Gemini API`
+
+**`05` — Rainfall Prediction Model** — CRO, UP Govt.
 Time-series ML model for district-level rainfall prediction using 14–15 years of ERA5 data across 12 meteorological parameters. `Python` `ERA5` `Time-Series`
 
-**`05` — Watershed Management System** — CRO, UP Govt.
+**`06` — Watershed Management System** — CRO, UP Govt.
 Backend contributions to a geospatial watershed management platform — data pipeline architecture and processing workflows. `Python` `Geospatial Pipelines`
 
 ---
 
-## Currently Learning
+## CURRENTLY LEARNING
 <!-- #currently-learning -->
 
 | 🚀 Domain | ✨ Topics |
@@ -80,7 +88,7 @@ Backend contributions to a geospatial watershed management platform — data pip
 
 ---
 
-## Experience
+## EXPERIENCE
 <!-- #experience -->
 
 **Data Science Intern — Climate Resilience Observatory (CRO), UP Govt.**
@@ -94,7 +102,7 @@ Sept 2025 – Present · Lucknow, India
 
 ---
 
-## GitHub Analytics
+## STATS
 <!-- #stats -->
 
 [![](https://github-readme-stats.vercel.app/api?username=KamalVasa&show_icons=true&hide_border=true&background=0a0a0a&ring=8b5cf6&fire=a78bfa&currStreakLabel=DC143C)](https://github.com/KamalVasa)
@@ -104,7 +112,7 @@ Sept 2025 – Present · Lucknow, India
 
 ---
 
-## Contribution Activity
+## CONTRIBUTION ACTIVITY
 <!-- #contribution-activity -->
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KamalVasa&theme=react-dark&bg_color=0a0a0a&color=a78bfa&line=8b5cf6&point=ffffff&hide_border=true)](https://github.com/KamalVasa)
