@@ -111,6 +111,11 @@ Sept 2025 – Present · Lucknow, India
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalVasa&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8b5cf6&text_color=ffffff&langs_count=6)](https://github.com/KamalVasa)
 
 ---
+---
+<p align="center">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KamalVasa/KamalVasa/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 
 ## CONTRIBUTION ACTIVITY
 <!-- #contribution-activity -->
